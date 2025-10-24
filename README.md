@@ -4,9 +4,9 @@ My GitHub account information is as follows:
 
 <table border="0" cellspacing="0" cellpadding="0">
     <tr>
-        <td>
+        <!-- <td>
             <img src="https://github-readme-stats.vercel.app/api?username=sepehrilami&show_icons=True"/>
-        </td>
+        </td> -->
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehrilami&layout=compact&langs_count=10"/>
         </td>
