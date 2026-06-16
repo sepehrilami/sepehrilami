@@ -2,7 +2,7 @@
 
 **PhD Candidate & Network Scientist** | Computational Social Science | Boston, MA
 
-I build computational frameworks, game-theoretic models, and multi-agent systems at the intersection of network science, agentic AI governance, and social behavior. When I'm not writing code or typesetting in LaTeX, you can find me training for the Boston Marathon 🏃‍♂️ or out on the soccer field ⚽.
+I build computational frameworks, game-theoretic models, and multi-agent systems at the intersection of network science, agentic AI governance, and social behavior. When I'm not writing code or compiling LaTeX files, you can find me outdoors hiking, partying, and gathering friends.
 
 ---
 
