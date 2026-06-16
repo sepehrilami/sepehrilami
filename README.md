@@ -15,14 +15,13 @@ I build computational frameworks, game-theoretic models, and multi-agent systems
 
 ---
 
-## 🚀 Featured Research & Repositories
+## 🚀 Open Source Projects
 
-| Project / Paper Repo | Description | Key Tech |
+| Project / Repo | Description | Key Tech |
 |:---|:---|:---|
-| 🤖 [adaptive-info-modulation](https://github.com/sepehrilami/adaptive-info-modulation) | Information modulation governance frameworks for multi-agent LLM systems. | `Python` `PyTorch` |
-| 📊 [mobility-epidemics](https://github.com/sepehrilami/mobility-epidemics) | Evaluating topological predictive signals of mobility networks in epidemic forecasting. | `R` `NetworkX` |
-| 🧠 [llm-theory-of-mind](https://github.com/sepehrilami/llm-theory-of-mind) | Transferring high-level strategic reasoning from massive LLMs into efficient edge architectures. | `Python` `LangChain` |
-| 🛡️ [network-opacity](https://github.com/sepehrilami/network-opacity) | Analyzing structural information shielding and strategic escalation in networked configurations. | `Python` `Stats` |
+| 🧠 [LFB](https://github.com/sepehrilami/LFB) | **LLM Theory of Mind**: Research and implementation code for transferring strategic reasoning capabilities in Large Language Models. | `Python` `LLMs` |
+| 🤖 [LLM-RL](https://github.com/sepehrilami/LLM-RL) | **Adaptive Information Modulation**: Designing reinforcement learning and governance frameworks for multi-agent LLM systems. | `Python` `PyTorch` `RL` |
+| ⚽ [soccer-hackathon](https://github.com/sepehrilami/soccer-hackathon) | **Soccer Analytics**: Data-driven modeling and tactical evaluation scripts built for sports hackathon challenges. | `Python` `Pandas` |
 
 ---
 
@@ -32,7 +31,6 @@ I build computational frameworks, game-theoretic models, and multi-agent systems
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
